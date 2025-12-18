@@ -4,7 +4,7 @@
   <p align="center">
     <strong>A12+ iCloud Activation Tool</strong>
     <br/>
-    <i>FOSS • Community Driven</i>
+   
   </p>
 </p>
 
