@@ -1,6 +1,6 @@
 <p align="center">
   <img src="icon.png" width="150" height="150" alt="R1nderPest Logo">
-  <h1 align="center">R1nderPest</h1>
+  <h1 align="center">Kasaun A12+</h1>
   <p align="center">
     <strong>A12+ iCloud Activation Tool</strong>
     <br/>
@@ -28,11 +28,3 @@ If you have an older version installed, delete the R1nderpest folder in C:/
 **Only iOS 18.7.2 and iOS 26.1 are supported**
 
 
-## Credits
-
-rhcp, ZeroxDev, gliddd4, Rust505
-
-## Support
-
-https://buymeacoffee.com/rust505 -- Support the developers
-https://t.me/r1nderpest -- Questions/support for the tool
